@@ -2,7 +2,7 @@
 Fathia Nur Rahmah (124210026)
 
 ## Tampilan Halaman Splash Screen
-![Web capture_22-11-2023_249_localhost](https://github.com/Fathianr16/LatihanResponsi/assets/145315810/2660dde0-fce7-4bbb-a3d9-5f2f56c7ffd0)
+![Web capture_22-11-2023_7200_localhost](https://github.com/Fathianr16/LatihanResponsi/assets/145315810/d2dd9b06-25bc-4e74-a5a8-f97745644c3c)
 
 ## Tampilan Halaman Menu
 ![Web capture_22-11-2023_2422_localhost](https://github.com/Fathianr16/LatihanResponsi/assets/145315810/2a2a1c74-ad96-4aa2-bdb8-7eaf9fe76dd5)
