@@ -1,16 +1,23 @@
-# latihanresponsi
+# Latihan Responsi
+Fathia Nur Rahmah (124210026)
 
-A new Flutter project.
+## Tampilan Halaman Splash Screen
+![Web capture_22-11-2023_249_localhost](https://github.com/Fathianr16/LatihanResponsi/assets/145315810/2660dde0-fce7-4bbb-a3d9-5f2f56c7ffd0)
 
-## Getting Started
+## Tampilan Halaman Menu
+![Web capture_22-11-2023_2422_localhost](https://github.com/Fathianr16/LatihanResponsi/assets/145315810/2a2a1c74-ad96-4aa2-bdb8-7eaf9fe76dd5)
+![Web capture_22-11-2023_2433_localhost](https://github.com/Fathianr16/LatihanResponsi/assets/145315810/86de1eb2-1354-4bc7-aa88-fec655063528)
 
-This project is a starting point for a Flutter application.
+## Tampilan Halaman News
+Screenshoot dilakukan sebelum melakukan run untuk flutter run -d Chrome --web-renderer html.
+![Web capture_22-11-2023_2834_localhost](https://github.com/Fathianr16/LatihanResponsi/assets/145315810/6c5b89d1-3524-4889-8c70-2692eadf2b29)
+![Web capture_22-11-2023_2931_localhost](https://github.com/Fathianr16/LatihanResponsi/assets/145315810/54e6d628-437a-4d7b-b916-63c5931016ac)
 
-A few resources to get you started if this is your first Flutter project:
+## Tampilan Halaman Blogs
+Screenshoot dilakukan sebelum melakukan run untuk flutter run -d Chrome --web-renderer html.
+![Web capture_22-11-2023_2956_localhost](https://github.com/Fathianr16/LatihanResponsi/assets/145315810/e71adce4-9c00-472c-9260-29ead3b0cbf2)
+![Web capture_22-11-2023_21036_localhost](https://github.com/Fathianr16/LatihanResponsi/assets/145315810/5e87f044-2927-420d-878a-bd3b09263b9d)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tampilan Halaman Reports
+![Web capture_22-11-2023_2548_localhost](https://github.com/Fathianr16/LatihanResponsi/assets/145315810/35d092da-9dc1-476b-a55d-f0b5a163f06d)
+![Web capture_22-11-2023_2523_localhost](https://github.com/Fathianr16/LatihanResponsi/assets/145315810/06f38b57-6e59-466a-ac2a-61dc8d85ed27)
